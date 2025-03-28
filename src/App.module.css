@@ -1,0 +1,10 @@
+.contG{
+    background-color: red;
+    width: 100%;
+    height: 100vh;
+    /* margin-top: 0; */
+}
+
+.contG h1{
+    background-color: blueviolet; 
+}
